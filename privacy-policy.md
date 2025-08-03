@@ -22,6 +22,13 @@ Some of the services may use location information transmitted from users' mobile
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
+##Photos, Videos, and Camera Access**
+Our app may request access to your device’s camera and photo/video library to support essential functionality, including:
+Capturing photos or videos of anomalies in the work environment.
+Saving and selecting images or videos to document and report issues.
+Attaching media files to reports within the app.
+These features are necessary for the proper use of the app. We do not access, use, or share your media files for any purpose other than what is required to fulfill the app’s core functionality.
+
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
 * To facilitate our Service;
